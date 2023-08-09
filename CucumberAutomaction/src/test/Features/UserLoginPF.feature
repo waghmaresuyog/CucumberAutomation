@@ -1,5 +1,5 @@
 Feature: User Login using PF
-
+  @SmokeOne
   Scenario Outline: User logs in with different credentials using PF
     Given user is open browser
     When user open URL
